@@ -5,7 +5,7 @@
   <artifactId>spring-redis-test</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>spring-redis-test Maven Webapp</name>
+  <name>spring-redis-test Maven Webappaa</name>
   <url>http://maven.apache.org</url>
   <properties>
      <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
